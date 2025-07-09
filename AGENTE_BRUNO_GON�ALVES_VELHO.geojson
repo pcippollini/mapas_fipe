@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "AGENTE_BRUNO_GON�ALVES_VELHO",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"xy_coordinate_resolution": 1e-15,
+"features": [
+{ "type": "Feature", "properties": { "CNPJ": 51615047000109, "AGENTE": "BRUNO_GON�ALVES_VELHO", "ACAO": "REALIZAR_PRIMEIRA_VISITA", "RAZAO_SOCIAL": "NINA COMERCIO DE CALCADOS E ACESSORIOS LTDA", "ENDERECO": "RUADOUTORLU�SSUPLICY_11_GONZAGA_SANTOS", "CIDADE": "SANTOS", "LATITUDE": -23.9620177, "LONGITUDE": -46.3290071 }, "geometry": { "type": "Point", "coordinates": [ -46.3290071, -23.9620177 ] } },
+{ "type": "Feature", "properties": { "CNPJ": 25016715000325, "AGENTE": "BRUNO_GON�ALVES_VELHO", "ACAO": "REALIZAR_PRIMEIRA_VISITA", "RAZAO_SOCIAL": "ABELHA RAINHA CONFEITARIA LTDA", "ENDERECO": "AVENIDAANACOSTA_410_GONZAGA_SANTOS", "CIDADE": "SANTOS", "LATITUDE": -23.962244, "LONGITUDE": -46.3324178 }, "geometry": { "type": "Point", "coordinates": [ -46.3324178, -23.962244 ] } },
+{ "type": "Feature", "properties": { "CNPJ": 32517561000159, "AGENTE": "BRUNO_GON�ALVES_VELHO", "ACAO": "REALIZAR_PRIMEIRA_VISITA", "RAZAO_SOCIAL": "ESTIVA CERVEJARIA LTDA", "ENDERECO": "AVENIDAANACOSTA_410_GONZAGA_SANTOS", "CIDADE": "SANTOS", "LATITUDE": -23.9622566, "LONGITUDE": -46.3329664 }, "geometry": { "type": "Point", "coordinates": [ -46.3329664, -23.9622566 ] } }
+]
+}
