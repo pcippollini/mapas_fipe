@@ -1,9 +1,0 @@
-{
-"type": "FeatureCollection",
-"name": "AGENTE_Gabriel_Albino",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"xy_coordinate_resolution": 1e-15,
-"features": [
-{ "type": "Feature", "properties": { "CNPJ": 21211457000115, "AGENTE": "Gabriel_Albino", "ACAO": "REALIZAR_PRIMEIRA_VISITA", "RAZAO_SOCIAL": "MARTA OLINDA FERREIRA", "ENDERECO": "RUABAR�ODORIOBRANCO_941_CENTRO_PRESIDENTEPRUDENTE", "CIDADE": "PRESIDENTE PRUDENTE", "LATITUDE": -22.1221506, "LONGITUDE": -51.3915669 }, "geometry": { "type": "Point", "coordinates": [ -51.3915669, -22.1221506 ] } }
-]
-}
