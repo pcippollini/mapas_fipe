@@ -4,6 +4,6 @@
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "xy_coordinate_resolution": 1e-15,
 "features": [
-{ "type": "Feature", "properties": { "CNPJ": 34189831000175, "AGENTE": "RENNE_CANDIDO_DA_SILVA", "ACAO": "REALIZAR_PRIMEIRA_VISITA", "RAZAO_SOCIAL": "L_A_Y_ROCHA_COMERCIO_DE_COMBUSTIVEIS_LTDA", "ENDERECO": "AVENIDA_BENTO_ALVES_NATEL_777_CENTRO_SUD_MENNUCCI", "CIDADE": "SUD_MENNUCCI", "LATITUDE": -20.6881144, "LONGITUDE": -50.9232019 }, "geometry": { "type": "Point", "coordinates": [ -50.9232019, -20.6881144 ] } }
+{ "type": "Feature", "properties": { "fid": 4383, "CNPJ": 34189831000175, "AGENTE": "RENNE_CANDIDO_DA_SILVA", "ACAO": "REALIZAR_PRIMEIRA_VISITA", "RAZAO_SOCIAL": "L_A_Y_ROCHA_COMERCIO_DE_COMBUSTIVEIS_LTDA", "ENDERECO": "AVENIDA_BENTO_ALVES_NATEL_777_CENTRO_SUD_MENNUCCI", "CIDADE": "SUD_MENNUCCI", "LATITUDE": -20.6881144, "LONGITUDE": -50.9232019, "Name_max": "Sud Mennucci", "ER_max": "Araçatuba", "ID_POLIGONO_max": "63247_Araçatuba_Sud_Mennucci" }, "geometry": { "type": "Point", "coordinates": [ -50.9232019, -20.6881144 ] } }
 ]
 }
