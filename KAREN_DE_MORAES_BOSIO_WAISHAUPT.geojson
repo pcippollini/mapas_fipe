@@ -4,6 +4,6 @@
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "xy_coordinate_resolution": 1e-15,
 "features": [
-{ "type": "Feature", "properties": { "CNPJ": 71665749000287, "AGENTE": "KAREN_DE_MORAES_BOSIO_WAISHAUPT", "ACAO": "REALIZAR_SEGUNDA_VISITA", "RAZAO_SOCIAL": "STUDIO_MARCELO_AGUILA", "ENDERECO": "RUA_NOSSA_SENHORA_DO_ROSARIO_63_CENTRO_EMBU_DAS_ARTES_BRASIL", "CIDADE": "EMBU_DAS_ARTES", "LATITUDE": -23.650638, "LONGITUDE": -46.8519197 }, "geometry": { "type": "Point", "coordinates": [ -46.8519197, -23.650638 ] } }
+{ "type": "Feature", "properties": { "CNPJ": 71665749000287, "AGENTE": "KAREN_DE_MORAES_BOSIO_WAISHAUPT", "ACAO": "REALIZAR_SEGUNDA_VISITA", "RAZAO_SOCIAL": "STUDIO_MARCELO_AGUILA", "ENDERECO": "RUA_NOSSA_SENHORA_DO_ROSARIO_63_CENTRO_EMBU_DAS_ARTES_BRASIL", "CIDADE": "EMBU_DAS_ARTES", "LATITUDE": -23.650638, "LONGITUDE": -46.8519197, "BASE": "ATENDIDOS" }, "geometry": { "type": "Point", "coordinates": [ -46.8519197, -23.650638 ] } }
 ]
 }
