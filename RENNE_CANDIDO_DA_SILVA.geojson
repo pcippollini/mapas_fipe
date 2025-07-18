@@ -4,6 +4,6 @@
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "xy_coordinate_resolution": 1e-15,
 "features": [
-{ "type": "Feature", "properties": { "CNPJ": 34189831000175, "AGENTE": "RENNE_CANDIDO_DA_SILVA", "ACAO": "URGENTE_REALIZAR_PRIMEIRA_VISITA", "RAZAO_SOCIAL": "L_A_Y_ROCHA_COMERCIO_DE_COMBUSTIVEIS_LTDA", "ENDERECO": "AVENIDABENTOALVESNATEL_777_CENTRO_SUDMENNUCCI", "CIDADE": "SUD_MENNUCCI", "LATITUDE": -20.6881144, "LONGITUDE": -50.9232019, "LINK": "#N/D" }, "geometry": { "type": "Point", "coordinates": [ -50.9232019, -20.6881144 ] } }
+{ "type": "Feature", "properties": { "CNPJ": 34189831000175, "AGENTE": "RENNE_CANDIDO_DA_SILVA", "ACAO": "URGENTE_REALIZAR_PRIMEIRA_VISITA", "RAZAO_SOCIAL": "L_A_Y_ROCHA_COMERCIO_DE_COMBUSTIVEIS_LTDA", "ENDERECO": "AVENIDABENTOALVESNATEL_777_CENTRO_SUDMENNUCCI", "CIDADE": "SUD_MENNUCCI", "LATITUDE": -20.6881144, "LONGITUDE": -50.9232019, "LINK": "#N/D", "LMAPS": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=-20.6881144,-50.9232019" }, "geometry": { "type": "Point", "coordinates": [ -50.9232019, -20.6881144 ] } }
 ]
 }
