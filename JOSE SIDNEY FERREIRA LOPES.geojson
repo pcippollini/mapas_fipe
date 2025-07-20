@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "JOSE SIDNEY FERREIRA LOPES",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"xy_coordinate_resolution": 1e-15,
+"features": [
+{ "type": "Feature", "properties": { "CNPJ": 57680170000181, "AGENTE": "JOSE SIDNEY FERREIRA LOPES", "ACAO": "REALIZAR_SEGUNDA_VISITA", "RAZAO_SOCIAL": "HOMEM_ELEGANTE_LTDA", "ENDERECO": "RUA_TOMAZ_ANTONIO_GONZAGA_588_JARDIM_ARIANO_LINS_BRASIL", "CIDADE": "LINS", "LATITUDE": -21.6818878, "LONGITUDE": -49.7619649, "LMAPS": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=-21.6818878,-49.7619649", "LMAPS_TRACKED": "https://rastreador-fotos.vercel.app/clique?id=CNPJ_57680170000181" }, "geometry": { "type": "Point", "coordinates": [ -49.7619649, -21.6818878 ] } }
+]
+}
