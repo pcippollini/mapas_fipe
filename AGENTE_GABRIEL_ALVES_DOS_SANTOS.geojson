@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "AGENTE_GABRIEL_ALVES_DOS_SANTOS",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"xy_coordinate_resolution": 1e-15,
+"features": [
+{ "type": "Feature", "properties": { "CNPJ": 48788078000149, "AGENTE": "GABRIEL_ALVES_DOS_SANTOS", "ACAO": "REALIZAR_SEGUNDA_VISITA", "RAZAO_SOCIAL": "COMERCIO_DE_CARNES_FERRAZ", "ENDERECO": "RUA_ITIRAPINA_1578_CIDADE_LUIZA_JUNDIAI_BRASIL", "CIDADE": "JUNDIAI", "LATITUDE": -23.1671432, "LONGITUDE": -46.910682, "LMAPS": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=--23.1671432,-46.910682" }, "geometry": { "type": "Point", "coordinates": [ -46.910682, -23.1671432 ] } },
+{ "type": "Feature", "properties": { "CNPJ": 51053858000155, "AGENTE": "GABRIEL_ALVES_DOS_SANTOS", "ACAO": "REALIZAR_SEGUNDA_VISITA", "RAZAO_SOCIAL": "SORVETERIA_KLASMEL", "ENDERECO": "RUA_ITIRAPINA_1600_CIDADE_LUIZA_JUNDIAI_BRASIL", "CIDADE": "JUNDIAI", "LATITUDE": -23.1670835, "LONGITUDE": -46.910539, "LMAPS": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=--23.1670835,-46.910539" }, "geometry": { "type": "Point", "coordinates": [ -46.910539, -23.1670835 ] } },
+{ "type": "Feature", "properties": { "CNPJ": 32226269000187, "AGENTE": "GABRIEL_ALVES_DOS_SANTOS", "ACAO": "REALIZAR_SEGUNDA_VISITA", "RAZAO_SOCIAL": "ADEGA_SONIC", "ENDERECO": "RUA_IRMA_TRALDI_374_CIDADE_LUIZA_JUNDIAI_BRASIL", "CIDADE": "JUNDIAI", "LATITUDE": -23.1676363, "LONGITUDE": -46.9097917, "LMAPS": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=--23.1676363,-46.9097917" }, "geometry": { "type": "Point", "coordinates": [ -46.9097917, -23.1676363 ] } }
+]
+}
