@@ -1,9 +1,0 @@
-{
-"type": "FeatureCollection",
-"name": "AGENTE_TAMIRIS_DE_OLIVEIRA_FARIA_PACHECO",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"xy_coordinate_resolution": 1e-15,
-"features": [
-{ "type": "Feature", "properties": { "CNPJ": 13258336000109, "AGENTE": "TAMIRIS_DE_OLIVEIRA_FARIA_PACHECO", "ACAO": "REALIZAR_SEGUNDA_VISITA", "RAZAO_SOCIAL": "AGNALDO", "ENDERECO": "AVENIDA_PREFEITO_MARIO_POZZOBON_1963_POZZOBON_VOTUPORANGA_BRASIL", "CIDADE": "VOTUPORANGA", "LATITUDE": -20.4021417, "LONGITUDE": -49.9780511, "LMAPS": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=--20.4021417,-49.9780511" }, "geometry": { "type": "Point", "coordinates": [ -49.9780511, -20.4021417 ] } }
-]
-}
