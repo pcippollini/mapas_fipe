@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "AGENTE_min_PEDRO_VITOR_FERNANDES_VENCHIARUTTI",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"xy_coordinate_resolution": 1e-15,
+"features": [
+{ "type": "Feature", "properties": { "CD_MUN": "3548500", "NM_MUN": "Santos", "ID_POLY": "796", "AGENTE_min": "PEDRO_VITOR_FERNANDES_VENCHIARUTTI" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -46.3556115, -23.9691558 ], [ -46.3556115, -23.9406558 ], [ -46.3271115, -23.9406558 ], [ -46.3271115, -23.9691558 ], [ -46.3556115, -23.9691558 ] ] ] ] } }
+]
+}

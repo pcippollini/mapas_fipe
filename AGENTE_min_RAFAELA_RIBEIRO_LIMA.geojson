@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "AGENTE_min_RAFAELA_RIBEIRO_LIMA",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"xy_coordinate_resolution": 1e-15,
+"features": [
+{ "type": "Feature", "properties": { "CD_MUN": "3550308", "NM_MUN": "São Paulo", "ID_POLY": "5", "AGENTE_min": "RAFAELA_RIBEIRO_LIMA" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -46.5551115, -23.5416558 ], [ -46.5551115, -23.5131558 ], [ -46.5266115, -23.5131558 ], [ -46.5266115, -23.5416558 ], [ -46.5551115, -23.5416558 ] ] ] ] } }
+]
+}
