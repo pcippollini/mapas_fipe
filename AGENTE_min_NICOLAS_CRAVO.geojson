@@ -5,7 +5,9 @@
 "xy_coordinate_resolution": 1e-15,
 "features": [
 { "type": "Feature", "properties": { "CD_MUN": "3543402", "NM_MUN": "Ribeirão Preto", "ID_POLY": "263", "AGENTE_min": "NICOLAS_CRAVO" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -47.8091115, -21.1761558 ], [ -47.8091115, -21.1476558 ], [ -47.7806115, -21.1476558 ], [ -47.7806115, -21.1761558 ], [ -47.8091115, -21.1761558 ] ] ] ] } },
+{ "type": "Feature", "properties": { "CD_MUN": "3543402", "NM_MUN": "Ribeirão Preto", "ID_POLY": "265", "AGENTE_min": "NICOLAS_CRAVO" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -47.8091115, -21.2331558 ], [ -47.8091115, -21.2046558 ], [ -47.7806115, -21.2046558 ], [ -47.7806115, -21.2331558 ], [ -47.8091115, -21.2331558 ] ] ] ] } },
 { "type": "Feature", "properties": { "CD_MUN": "3543402", "NM_MUN": "Ribeirão Preto", "ID_POLY": "269", "AGENTE_min": "NICOLAS_CRAVO" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -47.8091115, -21.1191558 ], [ -47.8091115, -21.0906558 ], [ -47.7806115, -21.0906558 ], [ -47.7806115, -21.1191558 ], [ -47.8091115, -21.1191558 ] ] ] ] } },
+{ "type": "Feature", "properties": { "CD_MUN": "3543402", "NM_MUN": "Ribeirão Preto", "ID_POLY": "304", "AGENTE_min": "NICOLAS_CRAVO" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -47.7521115, -21.1476558 ], [ -47.7521115, -21.1191558 ], [ -47.7236115, -21.1191558 ], [ -47.7236115, -21.1476558 ], [ -47.7521115, -21.1476558 ] ] ] ] } },
 { "type": "Feature", "properties": { "CD_MUN": "3543402", "NM_MUN": "Ribeirão Preto", "ID_POLY": "305", "AGENTE_min": "NICOLAS_CRAVO" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -47.7521115, -21.1761558 ], [ -47.7521115, -21.1476558 ], [ -47.7236115, -21.1476558 ], [ -47.7236115, -21.1761558 ], [ -47.7521115, -21.1761558 ] ] ] ] } }
 ]
 }
