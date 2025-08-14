@@ -1,9 +1,9 @@
 {
 "type": "FeatureCollection",
-"name": "AGENTE_min_BRENDA_CHRISTINIE_MAPA_DE_OLIVEIRA",
+"name": "AGENTE_min_PALOMA_MARTINEZ_MESQUITA",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "xy_coordinate_resolution": 1e-15,
 "features": [
-{ "type": "Feature", "properties": { "CD_MUN": "3550308", "NM_MUN": "São Paulo", "ID_POLY": "181", "AGENTE_min": "BRENDA_CHRISTINIE_MAPA_DE_OLIVEIRA" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -46.6406115, -23.6271558 ], [ -46.6406115, -23.5986558 ], [ -46.6121115, -23.5986558 ], [ -46.6121115, -23.6271558 ], [ -46.6406115, -23.6271558 ] ] ] ] } }
+{ "type": "Feature", "properties": { "CD_MUN": "3550308", "NM_MUN": "São Paulo", "ID_POLY": "181", "AGENTE_min": "PALOMA_MARTINEZ_MESQUITA" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -46.6406115, -23.6271558 ], [ -46.6406115, -23.5986558 ], [ -46.6121115, -23.5986558 ], [ -46.6121115, -23.6271558 ], [ -46.6406115, -23.6271558 ] ] ] ] } }
 ]
 }
