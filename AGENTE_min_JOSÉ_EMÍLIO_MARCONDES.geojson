@@ -4,7 +4,9 @@
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "xy_coordinate_resolution": 1e-15,
 "features": [
-{ "type": "Feature", "properties": { "CD_MUN": "3550308", "NM_MUN": "São Paulo", "ID_POLY": "93", "AGENTE_min": "JOSÉ_EMÍLIO_MARCONDES" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -46.7546115, -23.5986558 ], [ -46.7546115, -23.5701558 ], [ -46.7261115, -23.5701558 ], [ -46.7261115, -23.5986558 ], [ -46.7546115, -23.5986558 ] ] ] ] } },
-{ "type": "Feature", "properties": { "CD_MUN": "3550308", "NM_MUN": "São Paulo", "ID_POLY": "131", "AGENTE_min": "JOSÉ_EMÍLIO_MARCONDES" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -46.7261115, -23.5986558 ], [ -46.7261115, -23.5701558 ], [ -46.6976115, -23.5701558 ], [ -46.6976115, -23.5986558 ], [ -46.7261115, -23.5986558 ] ] ] ] } }
+{ "type": "Feature", "properties": { "CD_MUN": "3550308", "NM_MUN": "São Paulo", "ID_POLY": "92", "AGENTE_min": "JOSÉ_EMÍLIO_MARCONDES" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -46.7546115, -23.5701558 ], [ -46.7546115, -23.5416558 ], [ -46.7261115, -23.5416558 ], [ -46.7261115, -23.5701558 ], [ -46.7546115, -23.5701558 ] ] ] ] } },
+{ "type": "Feature", "properties": { "CD_MUN": "3550308", "NM_MUN": "São Paulo", "ID_POLY": "131", "AGENTE_min": "JOSÉ_EMÍLIO_MARCONDES" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -46.7261115, -23.5986558 ], [ -46.7261115, -23.5701558 ], [ -46.6976115, -23.5701558 ], [ -46.6976115, -23.5986558 ], [ -46.7261115, -23.5986558 ] ] ] ] } },
+{ "type": "Feature", "properties": { "CD_MUN": "3550308", "NM_MUN": "São Paulo", "ID_POLY": "132", "AGENTE_min": "JOSÉ_EMÍLIO_MARCONDES" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -46.7261115, -23.6271558 ], [ -46.7261115, -23.5986558 ], [ -46.6976115, -23.5986558 ], [ -46.6976115, -23.6271558 ], [ -46.7261115, -23.6271558 ] ] ] ] } },
+{ "type": "Feature", "properties": { "CD_MUN": "3550308", "NM_MUN": "São Paulo", "ID_POLY": "133", "AGENTE_min": "JOSÉ_EMÍLIO_MARCONDES" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -46.7261115, -23.6556558 ], [ -46.7261115, -23.6271558 ], [ -46.6976115, -23.6271558 ], [ -46.6976115, -23.6556558 ], [ -46.7261115, -23.6556558 ] ] ] ] } }
 ]
 }

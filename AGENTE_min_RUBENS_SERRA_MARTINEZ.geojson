@@ -4,6 +4,10 @@
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "xy_coordinate_resolution": 1e-15,
 "features": [
-{ "type": "Feature", "properties": { "CD_MUN": "3550308", "NM_MUN": "São Paulo", "ID_POLY": "148", "AGENTE_min": "RUBENS_SERRA_MARTINEZ" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -46.6691115, -23.6271558 ], [ -46.6691115, -23.5986558 ], [ -46.6406115, -23.5986558 ], [ -46.6406115, -23.6271558 ], [ -46.6691115, -23.6271558 ] ] ] ] } }
+{ "type": "Feature", "properties": { "CD_MUN": "3550308", "NM_MUN": "São Paulo", "ID_POLY": "112", "AGENTE_min": "RUBENS_SERRA_MARTINEZ" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -46.6976115, -23.5986558 ], [ -46.6976115, -23.5701558 ], [ -46.6691115, -23.5701558 ], [ -46.6691115, -23.5986558 ], [ -46.6976115, -23.5986558 ] ] ] ] } },
+{ "type": "Feature", "properties": { "CD_MUN": "3550308", "NM_MUN": "São Paulo", "ID_POLY": "113", "AGENTE_min": "RUBENS_SERRA_MARTINEZ" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -46.6976115, -23.6271558 ], [ -46.6976115, -23.5986558 ], [ -46.6691115, -23.5986558 ], [ -46.6691115, -23.6271558 ], [ -46.6976115, -23.6271558 ] ] ] ] } },
+{ "type": "Feature", "properties": { "CD_MUN": "3550308", "NM_MUN": "São Paulo", "ID_POLY": "148", "AGENTE_min": "RUBENS_SERRA_MARTINEZ" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -46.6691115, -23.6271558 ], [ -46.6691115, -23.5986558 ], [ -46.6406115, -23.5986558 ], [ -46.6406115, -23.6271558 ], [ -46.6691115, -23.6271558 ] ] ] ] } },
+{ "type": "Feature", "properties": { "CD_MUN": "3550308", "NM_MUN": "São Paulo", "ID_POLY": "149", "AGENTE_min": "RUBENS_SERRA_MARTINEZ" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -46.6691115, -23.6556558 ], [ -46.6691115, -23.6271558 ], [ -46.6406115, -23.6271558 ], [ -46.6406115, -23.6556558 ], [ -46.6691115, -23.6556558 ] ] ] ] } },
+{ "type": "Feature", "properties": { "CD_MUN": "3550308", "NM_MUN": "São Paulo", "ID_POLY": "150", "AGENTE_min": "RUBENS_SERRA_MARTINEZ" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -46.6691115, -23.6841558 ], [ -46.6691115, -23.6556558 ], [ -46.6406115, -23.6556558 ], [ -46.6406115, -23.6841558 ], [ -46.6691115, -23.6841558 ] ] ] ] } }
 ]
 }
