@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "NATHALIA CRISTINA DOS SANTOS",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"xy_coordinate_resolution": 1e-15,
+"features": [
+{ "type": "Feature", "properties": { "AGENTE": "NATHALIA CRISTINA DOS SANTOS", "CNPJ": 53580331000104, "RAZAO_SOCIAL": "T.P.S. ALVES", "ACAO": "URGENTE SEGUNDO ATENDIMENTO", "CIDADE": null, "ENDEE": "AVENIDA ALEXIOS JAFET, 555, JARDIM IPANEMA, SÃO PAULO, BRASIL", "LATITUDE": -23.4501671, "LONGITUDE": -46.7520998, "LMAPS": "https://www.google.com/maps?q=&layer=c&cbll=-23.4501671,-46.7520998", "_umap_options": { "color": "#8A0303", "iconClass": "Drop", "iconUrl": "https://umap.openstreetmap.fr/uploads/pictogram/fire-station.svg", "popupTemplate": "<strong>{CNPJ}</strong><br>{RAZAO_SOCIAL}<br>{ENDEE}<br><a href='{LMAPS}' target='_blank'>📷 Ver Street View</a>" } }, "geometry": { "type": "Point", "coordinates": [ -46.7520998, -23.4501671 ] } },
+{ "type": "Feature", "properties": { "AGENTE": "NATHALIA CRISTINA DOS SANTOS", "CNPJ": 11402976000107, "RAZAO_SOCIAL": "MJ TRANSPORTES", "ACAO": "URGENTE SEGUNDO ATENDIMENTO", "CIDADE": null, "ENDEE": "RUA OLAVO FIRMIANO FERREIRA, 127, PARQUE PANAMERICANO, SÃO PAULO, BRASIL", "LATITUDE": -23.4518544, "LONGITUDE": -46.7332491, "LMAPS": "https://www.google.com/maps?q=&layer=c&cbll=-23.4518544,-46.7332491", "_umap_options": { "color": "#8A0303", "iconClass": "Drop", "iconUrl": "https://umap.openstreetmap.fr/uploads/pictogram/fire-station.svg", "popupTemplate": "<strong>{CNPJ}</strong><br>{RAZAO_SOCIAL}<br>{ENDEE}<br><a href='{LMAPS}' target='_blank'>📷 Ver Street View</a>" } }, "geometry": { "type": "Point", "coordinates": [ -46.7332491, -23.4518544 ] } }
+]
+}
