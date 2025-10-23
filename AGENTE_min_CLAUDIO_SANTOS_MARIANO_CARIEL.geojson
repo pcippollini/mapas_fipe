@@ -4,7 +4,8 @@
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "xy_coordinate_resolution": 1e-15,
 "features": [
-{ "type": "Feature", "properties": { "CD_MUN": "3550308", "NM_MUN": "São Paulo", "ID_POLY": "97", "AGENTE_min": "CLAUDIO_SANTOS_MARIANO_CARIEL" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -46.7546115, -23.5131558 ], [ -46.7546115, -23.4846558 ], [ -46.7261115, -23.4846558 ], [ -46.7261115, -23.5131558 ], [ -46.7546115, -23.5131558 ] ] ] ] } },
-{ "type": "Feature", "properties": { "CD_MUN": "3550308", "NM_MUN": "São Paulo", "ID_POLY": "136", "AGENTE_min": "CLAUDIO_SANTOS_MARIANO_CARIEL" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -46.7261115, -23.5131558 ], [ -46.7261115, -23.4846558 ], [ -46.6976115, -23.4846558 ], [ -46.6976115, -23.5131558 ], [ -46.7261115, -23.5131558 ] ] ] ] } }
+{ "type": "Feature", "properties": { "CD_MUN": "3550308", "NM_MUN": "São Paulo", "ID_POLY": "96", "NM_ID": "São Paulo_96", "AGENTE_min": "CLAUDIO_SANTOS_MARIANO_CARIEL" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -46.7546115, -23.4846558 ], [ -46.7546115, -23.4561558 ], [ -46.7261115, -23.4561558 ], [ -46.7261115, -23.4846558 ], [ -46.7546115, -23.4846558 ] ] ] ] } },
+{ "type": "Feature", "properties": { "CD_MUN": "3550308", "NM_MUN": "São Paulo", "ID_POLY": "97", "NM_ID": "São Paulo_97", "AGENTE_min": "CLAUDIO_SANTOS_MARIANO_CARIEL" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -46.7546115, -23.5131558 ], [ -46.7546115, -23.4846558 ], [ -46.7261115, -23.4846558 ], [ -46.7261115, -23.5131558 ], [ -46.7546115, -23.5131558 ] ] ] ] } },
+{ "type": "Feature", "properties": { "CD_MUN": "3550308", "NM_MUN": "São Paulo", "ID_POLY": "135", "NM_ID": "São Paulo_135", "AGENTE_min": "CLAUDIO_SANTOS_MARIANO_CARIEL" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -46.7261115, -23.4846558 ], [ -46.7261115, -23.4561558 ], [ -46.6976115, -23.4561558 ], [ -46.6976115, -23.4846558 ], [ -46.7261115, -23.4846558 ] ] ] ] } }
 ]
 }
