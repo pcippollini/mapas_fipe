@@ -4,8 +4,6 @@
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "xy_coordinate_resolution": 1e-15,
 "features": [
-{ "type": "Feature", "properties": { "CD_MUN": "3550308", "NM_MUN": "São Paulo", "ID_POLY": "92", "NM_ID": "São Paulo_92", "AGENTE_min": "ANDERSON_LUCIANO" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -46.7546115, -23.5701558 ], [ -46.7546115, -23.5416558 ], [ -46.7261115, -23.5416558 ], [ -46.7261115, -23.5701558 ], [ -46.7546115, -23.5701558 ] ] ] ] } },
-{ "type": "Feature", "properties": { "CD_MUN": "3550308", "NM_MUN": "São Paulo", "ID_POLY": "111", "NM_ID": "São Paulo_111", "AGENTE_min": "ANDERSON_LUCIANO" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -46.6976115, -23.5701558 ], [ -46.6976115, -23.5416558 ], [ -46.6691115, -23.5416558 ], [ -46.6691115, -23.5701558 ], [ -46.6976115, -23.5701558 ] ] ] ] } },
-{ "type": "Feature", "properties": { "CD_MUN": "3550308", "NM_MUN": "São Paulo", "ID_POLY": "130", "NM_ID": "São Paulo_130", "AGENTE_min": "ANDERSON_LUCIANO" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -46.7261115, -23.5701558 ], [ -46.7261115, -23.5416558 ], [ -46.6976115, -23.5416558 ], [ -46.6976115, -23.5701558 ], [ -46.7261115, -23.5701558 ] ] ] ] } }
+{ "type": "Feature", "properties": { "CD_MUN": "3550308", "NM_MUN": "São Paulo", "ID_POLY": "111", "NM_ID": "São Paulo_111", "AGENTE_min": "ANDERSON_LUCIANO" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -46.6976115, -23.5701558 ], [ -46.6976115, -23.5416558 ], [ -46.6691115, -23.5416558 ], [ -46.6691115, -23.5701558 ], [ -46.6976115, -23.5701558 ] ] ] ] } }
 ]
 }

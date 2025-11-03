@@ -2,10 +2,8 @@
 "type": "FeatureCollection",
 "name": "AGENTE_min_LILIA_VIANNA",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"xy_coordinate_resolution": 1e-15,
 "features": [
-{ "type": "Feature", "properties": { "CD_MUN": "3550308", "NM_MUN": "São Paulo", "ID_POLY": "9", "NM_ID": "São Paulo_9" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -46.4981115, -23.5701558 ], [ -46.4981115, -23.5416558 ], [ -46.4696115, -23.5416558 ], [ -46.4696115, -23.5701558 ], [ -46.4981115, -23.5701558 ] ] ] ] } },
-{ "type": "Feature", "properties": { "CD_MUN": "3550308", "NM_MUN": "São Paulo", "ID_POLY": "10", "NM_ID": "São Paulo_10" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -46.4981115, -23.5986558 ], [ -46.4981115, -23.5701558 ], [ -46.4696115, -23.5701558 ], [ -46.4696115, -23.5986558 ], [ -46.4981115, -23.5986558 ] ] ] ] } },
-{ "type": "Feature", "properties": { "CD_MUN": "3550308", "NM_MUN": "São Paulo", "ID_POLY": "17", "NM_ID": "São Paulo_17" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -46.4696115, -23.5701558 ], [ -46.4696115, -23.5416558 ], [ -46.4411115, -23.5416558 ], [ -46.4411115, -23.5701558 ], [ -46.4696115, -23.5701558 ] ] ] ] } },
-{ "type": "Feature", "properties": { "CD_MUN": "3550308", "NM_MUN": "São Paulo", "ID_POLY": "18", "NM_ID": "São Paulo_18" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -46.4696115, -23.5986558 ], [ -46.4696115, -23.5701558 ], [ -46.4411115, -23.5701558 ], [ -46.4411115, -23.5986558 ], [ -46.4696115, -23.5986558 ] ] ] ] } }
+{ "type": "Feature", "properties": { "CD_MUN": "3550308", "NM_MUN": "São Paulo", "ID_POLY": "17", "NM_ID": "São Paulo_17", "AGENTE_min": "LILIA_VIANNA" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -46.4696115, -23.5701558 ], [ -46.4696115, -23.5416558 ], [ -46.4411115, -23.5416558 ], [ -46.4411115, -23.5701558 ], [ -46.4696115, -23.5701558 ] ] ] ] } }
 ]
 }
