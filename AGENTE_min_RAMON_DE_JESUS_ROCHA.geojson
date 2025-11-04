@@ -4,6 +4,8 @@
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "xy_coordinate_resolution": 1e-15,
 "features": [
-{ "type": "Feature", "properties": { "CD_MUN": "3550308", "NM_MUN": "São Paulo", "ID_POLY": "134", "NM_ID": "São Paulo_134", "AGENTE_min": "RAMON_DE_JESUS_ROCHA" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -46.7261115, -23.4561558 ], [ -46.7261115, -23.4276558 ], [ -46.6976115, -23.4276558 ], [ -46.6976115, -23.4561558 ], [ -46.7261115, -23.4561558 ] ] ] ] } }
+{ "type": "Feature", "properties": { "CD_MUN": "3550308", "NM_MUN": "São Paulo", "ID_POLY": "134", "NM_ID": "São Paulo_134", "AGENTE_min": "RAMON_DE_JESUS_ROCHA" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -46.7261115, -23.4561558 ], [ -46.7261115, -23.4276558 ], [ -46.6976115, -23.4276558 ], [ -46.6976115, -23.4561558 ], [ -46.7261115, -23.4561558 ] ] ] ] } },
+{ "type": "Feature", "properties": { "CD_MUN": "3550308", "NM_MUN": "São Paulo", "ID_POLY": "204", "NM_ID": "São Paulo_204", "AGENTE_min": "RAMON_DE_JESUS_ROCHA" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -46.6121115, -23.5131558 ], [ -46.6121115, -23.4846558 ], [ -46.5836115, -23.4846558 ], [ -46.5836115, -23.5131558 ], [ -46.6121115, -23.5131558 ] ] ] ] } },
+{ "type": "Feature", "properties": { "CD_MUN": "3550308", "NM_MUN": "São Paulo", "ID_POLY": "210", "NM_ID": "São Paulo_210", "AGENTE_min": "RAMON_DE_JESUS_ROCHA" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -46.6121115, -23.4561558 ], [ -46.6121115, -23.4276558 ], [ -46.5836115, -23.4276558 ], [ -46.5836115, -23.4561558 ], [ -46.6121115, -23.4561558 ] ] ] ] } }
 ]
 }

@@ -1,0 +1,13 @@
+{
+"type": "FeatureCollection",
+"name": "NULL",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"xy_coordinate_resolution": 1e-15,
+"features": [
+{ "type": "Feature", "properties": { "CNPJ": ";;;;;;;;;;;;;;;", "SSSE": null, "RAZAO_SOCIAL": null, "NOME_FANTASIA": null, "ENDEE": null, "CIDADE": null, "LATITUDE": null, "LONGITUDE": null, "ANALISE_COMPLEMENTO": null, "ANALISE_MESMO_ENDERECO": null, "ANALISE_CNAE": null, "ANALISE_EMAIL": null, "NM_MUN_min": null, "ID_POLY_min": null, "NM_ID_min": null, "AGENTE": null }, "geometry": null },
+{ "type": "Feature", "properties": { "CNPJ": ";;;;;;;;;;;;;;;", "SSSE": null, "RAZAO_SOCIAL": null, "NOME_FANTASIA": null, "ENDEE": null, "CIDADE": null, "LATITUDE": null, "LONGITUDE": null, "ANALISE_COMPLEMENTO": null, "ANALISE_MESMO_ENDERECO": null, "ANALISE_CNAE": null, "ANALISE_EMAIL": null, "NM_MUN_min": null, "ID_POLY_min": null, "NM_ID_min": null, "AGENTE": null }, "geometry": null },
+{ "type": "Feature", "properties": { "CNPJ": ";;;;;;;;;;;;;;;", "SSSE": null, "RAZAO_SOCIAL": null, "NOME_FANTASIA": null, "ENDEE": null, "CIDADE": null, "LATITUDE": null, "LONGITUDE": null, "ANALISE_COMPLEMENTO": null, "ANALISE_MESMO_ENDERECO": null, "ANALISE_CNAE": null, "ANALISE_EMAIL": null, "NM_MUN_min": null, "ID_POLY_min": null, "NM_ID_min": null, "AGENTE": null }, "geometry": null },
+{ "type": "Feature", "properties": { "CNPJ": ";;;;;;;;;;;;;;;", "SSSE": null, "RAZAO_SOCIAL": null, "NOME_FANTASIA": null, "ENDEE": null, "CIDADE": null, "LATITUDE": null, "LONGITUDE": null, "ANALISE_COMPLEMENTO": null, "ANALISE_MESMO_ENDERECO": null, "ANALISE_CNAE": null, "ANALISE_EMAIL": null, "NM_MUN_min": null, "ID_POLY_min": null, "NM_ID_min": null, "AGENTE": null }, "geometry": null },
+{ "type": "Feature", "properties": { "CNPJ": ";;;;;;;;;;;;;;;", "SSSE": null, "RAZAO_SOCIAL": null, "NOME_FANTASIA": null, "ENDEE": null, "CIDADE": null, "LATITUDE": null, "LONGITUDE": null, "ANALISE_COMPLEMENTO": null, "ANALISE_MESMO_ENDERECO": null, "ANALISE_CNAE": null, "ANALISE_EMAIL": null, "NM_MUN_min": null, "ID_POLY_min": null, "NM_ID_min": null, "AGENTE": null }, "geometry": null }
+]
+}
